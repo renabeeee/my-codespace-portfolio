@@ -7,7 +7,7 @@
 import React from "react";
 
 /**
- * 
+ *
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
