@@ -25,7 +25,7 @@ const imageAltText = "sunset background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a software engineering student studying at Actualize. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a software engineering student studying at Actualize living in Los Angeles. I enjoy creating unique, simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive performance. By leveraging my programming and UI experience, I continually look for new and better ways to make tech accessible and easy to use.";
+  "I am passionate about solving problems in new creative ways to drive performance. By leveraging my programming and UI experience, I continually look for new and better ways to make apps easy to use and interactive.";
 
 const About = () => {
   return (

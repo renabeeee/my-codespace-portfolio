@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/computer.jpeg";
+import image from "../images/computer.jpg";
 
 const imageAltText = "Laptop on a desk with programming text editor on the screen";
 
@@ -40,12 +40,6 @@ const projectList = [
     title: "SheHoopsLA",
     description: "A community app to for basketball players in LA.",
     url: "https://shehoopsla.com",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
     title: "Cookable",
